@@ -90,7 +90,7 @@ pip install opencv-python numpy
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ### Step 1: Add Images
 
